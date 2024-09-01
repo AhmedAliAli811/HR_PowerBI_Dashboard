@@ -39,11 +39,6 @@ The dashboard provides HR teams with actionable insights to:
 - Analyze employee job satisfaction and service years
 - Improve HR decision-making and policy adjustments
 
-## **Screenshots**
-![HR Dashboard](./Screenshot1.png)
-![Promotion and Layoff](./Screenshot2.png)
-![Department Analysis](./Screenshot3.png)
-
 ## **How to Use**
 1. Download the Power BI file and datasets from this repository.
 2. Open the file in Power BI Desktop.
